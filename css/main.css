@@ -151,7 +151,7 @@
   /* End Header */
   /* Start Landing Section */
   .landing {
-    background-image: url(D:/My_Projects/template_1/images/kelly-sikkema-tk9RQCq5eQo-unsplash.jpg);
+    background-image: url(../images/kelly-sikkema-tk9RQCq5eQo-unsplash.jpg);
     background-size: cover;
     height: calc(100vh - 60px);
     position: relative;
